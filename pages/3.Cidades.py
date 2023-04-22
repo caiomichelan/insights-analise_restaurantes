@@ -2,9 +2,6 @@
 import pandas as pd
 import numpy as np
 import streamlit as st
-import folium
-from folium.plugins import MarkerCluster
-from streamlit_folium import folium_static
 
 import plotly.express as px
 import inflection
@@ -296,4 +293,3 @@ with st.container():
               .reset_index())
     df_aux.rename(columns={'city':'Cidade', 'restaurant_id':'QTD_Restaurantes'}, inplace=True)
     st.dataframe(df_aux, width=800, height=600)
-

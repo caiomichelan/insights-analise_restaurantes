@@ -6,8 +6,8 @@ import streamlit as st
 #from folium.plugins import MarkerCluster
 #from streamlit_folium import folium_static
 
-import plotly.express as px
-import inflection
+#import plotly.express as px
+#import inflection
 
 
 #Load data

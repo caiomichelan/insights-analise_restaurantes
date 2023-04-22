@@ -63,7 +63,6 @@ Tipos de Culinária
 # 5. Produto Final
 <p align='justify'>Painel Gerencial para análises estratégicas com o objetivo de fornecer Insights valiosos para tomada de decisões baseadas em dados.</p>
 <p align='justify'>O produto foi disponibilizado em ambiente em nuvem, com garantia de acesso a qualquer horário, em qualquer dia da semana, salvo interrupções no sistema de hospedagem.</p>
-<p align='justify'>O relatório pode ser acessado através do seguinte link: 
 
 # 6. Conclusão
 <p align='justify'>O principal objetivo deste projeto foi criar um relatório visual que possibilite análises estratégicas e forneça Insights valiosos para tomadas de decisões por parte da gestão da empresa. Desta forma podemos concluir que com base nos dados dispostos, a empresa pode focar em ações específicas de marketing voltadas a certos países, cidades e tipos de culinária, podendo trazer um incremento considerável na receita, bem como aquisição de mais clientes e posterior maior adesão à plataforma.</p>

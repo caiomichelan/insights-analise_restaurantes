@@ -65,7 +65,7 @@ Tipos de Culinária
 <p align='justify'>O Relatório pode ser visualizado no seguinte link: <a href="https://caiomichelan-insights-analise-restaurantes-pgina-inicial-dkbwh0.streamlit.app/"> World Restaurants - Painel Gerencial</a></p>
 
 # 6. Conclusão
-<p align='justify'>O principal objetivo deste projeto foi criar um relatório visual que possibilite análises estratégicas e forneça Insights valiosos para tomadas de decisões por parte da gestão da empresa. Desta forma podemos concluir que com base nos dados dispostos, a empresa pode focar em ações específicas de marketing voltadas a certos países, cidades e tipos de culinária, podendo trazer um incremento considerável na receita, bem como aquisição de mais clientes e posterior maior adesão à plataforma.</p>
+<p align='justify'>O principal objetivo deste projeto foi criar um relatório que possibilite análises estratégicas e forneça Insights valiosos para tomadas de decisões por parte da gestão da empresa. Desta forma podemos concluir que com base nos dados dispostos a empresa pode focar em ações específicas de marketing voltadas a certos países, cidades e tipos de culinária, podendo trazer um incremento considerável na receita, bem como aquisição de mais clientes e posterior maior adesão à plataforma.</p>
 <p align='justify'>Do ponto de vista da empresa, podemos concluir que a Índia é o país que mais contém restaurantes cadastrados (44,9%) na base de dados, seguidos pelos Estados Unidos (19,8%) e Inglaterra (5,8%).</p>
 
 # 7. Próximos Passos

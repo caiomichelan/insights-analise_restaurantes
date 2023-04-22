@@ -59,15 +59,14 @@ Tipos de Culinária
 <p align='justify'>Apesar da Índia ser o país com mais restaurantes cadastrados, o número médio de avaliações registradas aos restaurantes deste país não se diferencia de maneira muito expressiva aos demais, ficando em segundo lugar, sendo ainda que no comparativo geral os Estados Unidos ficaram apenas na oitava posição, e a Inglaterra na décima terceira, o que indica que a quantidade de restaurantes registrados por países não implica na quantidade média de avaliações.</p>
 <p align='justify'>Diversas cidades cadastraram um total de 80 restaurantes na plataforma.</p>
 
-
 # 5. Produto Final
 <p align='justify'>Painel Gerencial para análises estratégicas com o objetivo de fornecer Insights valiosos para tomada de decisões baseadas em dados.</p>
 <p align='justify'>O produto foi disponibilizado em ambiente em nuvem, com garantia de acesso a qualquer horário, em qualquer dia da semana, salvo interrupções no sistema de hospedagem.</p>
+<p align='justify'>O Relatório pode ser visualizado no seguinte link: <a href="https://caiomichelan-insights-analise-restaurantes-pgina-inicial-dkbwh0.streamlit.app/"> World Restaurants - Painel Gerencial</a></p>
 
 # 6. Conclusão
 <p align='justify'>O principal objetivo deste projeto foi criar um relatório visual que possibilite análises estratégicas e forneça Insights valiosos para tomadas de decisões por parte da gestão da empresa. Desta forma podemos concluir que com base nos dados dispostos, a empresa pode focar em ações específicas de marketing voltadas a certos países, cidades e tipos de culinária, podendo trazer um incremento considerável na receita, bem como aquisição de mais clientes e posterior maior adesão à plataforma.</p>
 <p align='justify'>Do ponto de vista da empresa, podemos concluir que a Índia é o país que mais contém restaurantes cadastrados (44,9%) na base de dados, seguidos pelos Estados Unidos (19,8%) e Inglaterra (5,8%).</p>
-
 
 # 7. Próximos Passos
 <p align='justify'>Como próximos passos será implementado um estudo para inclusão de mais filtros no relatório, bem como a inclusão de outras visões em conformidade com a necessidade da gestão.</p>

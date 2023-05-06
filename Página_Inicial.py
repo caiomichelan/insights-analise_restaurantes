@@ -180,7 +180,7 @@ st.markdown(
     '''
     ## Sobre: 
     
-    Este Painel Gerencial foi desenvolvido para proporcinar análises assertivas sobre os restaurantes cadastrados na plataforma "World Restaurants" e fornecer Insights valiosos para tomadas de decisões estratégicas da empresa!
+    Este Painel Gerencial foi desenvolvido para proporcionar análises assertivas sobre os restaurantes cadastrados na plataforma "World Restaurants" e fornecer Insights valiosos para tomadas de decisões estratégicas da empresa!
     
     
     ---
